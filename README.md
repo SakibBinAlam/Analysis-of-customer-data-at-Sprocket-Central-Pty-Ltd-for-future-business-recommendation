@@ -5,5 +5,3 @@
 ## Tools used: <br>
 - Python (for data preprocessing, analysis, visualizations)
 - Tableau (creating dashboard) <br>
-
-Dashboard will be uploaded soon...
