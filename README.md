@@ -5,4 +5,4 @@
 ## Tools used: <br>
 - Python (for data preprocessing, analysis, visualizations)
 - Tableau (creating dashboard) <br>
-(This project was a part of virtual internship arranged by KPMG and Forage (Australia)))
+<br>(This project was a part of virtual internship arranged by KPMG and Forage (Australia)))
